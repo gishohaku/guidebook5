@@ -12,11 +12,8 @@ CHAPS:
     - chap-circle-layout.re
     - chap-circle-appeals.re
 
-  - chap-title-sponsor.re:
-
   - chap-title-staff.re:
     - chap-staff-printflyer.re
 
 POSTDEF:
   - chap-contributors.re
-
