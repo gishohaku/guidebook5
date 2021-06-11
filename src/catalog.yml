@@ -12,6 +12,9 @@ CHAPS:
     - chap-circle-layout.re
     - chap-circle-appeals.re
 
+  - chap-title-sponsor.re:
+    - chap-sponsor-efc.re
+
   - chap-title-staff.re:
     - chap-staff-printflyer.re
 
