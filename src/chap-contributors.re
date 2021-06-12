@@ -56,11 +56,13 @@
 \clearpage
 
 
-\contributor{こまっち}{@komacchi\_u}{images/contributors/komacchi_u.png}{
-最近、SREとしてベンチャー企業で働き始めました。
-クラウド、セキュリティなどの技術を経験しております。
-前回は当日スタッフとして担当しましたが、今回からコアスタッフとして
-受付周りを担当させていただきます。
+\contributor{こまっち}{@komachan\_333}{images/contributors/komacchi_u.png}{
+約2年前まで、SIer企業、アウトソーシング企業にて主にインフラエンジニアとしてエンジニア派遣で
+お仕事をしておりました。
+現在は、ベンチャー企業で主に情シス担当としてエンジニアをしております。
+SIerでは、AWS、Azureを中心としてクラウドや、セキュリティ製品サポートやインテグレーションなどの技術を
+経験しております。
+コアスタッフとしては、主に受付周りを担当させていただきます。
 }
 
 \contributor{くりまお}{@awa\_kuri23}{images/contributors/awa_kuri23.png}{
