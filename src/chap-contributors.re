@@ -38,7 +38,7 @@
 }
 
 \contributor{もっと}{@mottox2}{images/contributors/mottox2.png}{
-普段はフリーランスでウェブサービスを開発したりスマホアプリを書いたりしています。今回はサークル主をお休みしてウェブサイトを作っています。だんだん新刊を書きたくなってきました。
+UIデザイナーとプログラマーを反復横とびしています。デザインエンジニアを目指して頑張っています。
 }
 
 \contributor{Alice\_You}{@Alice\_You}{images/contributors/alice_you.png}{
