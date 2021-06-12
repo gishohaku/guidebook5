@@ -14,6 +14,7 @@ CHAPS:
 
   - chap-title-sponsor.re:
     - chap-sponsor-efc.re
+    - chap-sponsor-apc.re
 
   - chap-title-staff.re:
     - chap-staff-printflyer.re
