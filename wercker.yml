@@ -7,7 +7,7 @@ build:
       name: create pdf
       code: |
           cd src
-          review pdfmaker config-ebook.yml
+          review pdfmaker config-print.yml
     - script:
       name: output artifacts
       code: cp src/Guidebook2.pdf $WERCKER_REPORT_ARTIFACTS_DIR/

@@ -122,8 +122,8 @@ ITエンジニアです。商業誌を出版することになり、執筆仲間
 　　
 }
 
-\contributor{梅林良太}{　}{images/contributors/umebayashi.jpg}{
-　　
+\contributor{うめりん}{@lesgrandsballet}{images/contributors/umebayashi.jpg}{
+即売会スタッフ初めてです、頑張ります
 }
 
 \contributor{もつ}{　}{images/contributors/motsu.jpg}{
