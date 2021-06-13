@@ -27,9 +27,6 @@
 
 \clearpage
 
-\contributor{kazto}{@bainarian}{images/contributors/bainarian.png}{
-7月から自社サービスのエンジニアになりました。Teratailで細々と回答したりしています。本を書く側になりたいです。
-}
 
 \contributor{なつお}{@KazuyaNakahara}{images/contributors/kazuyanakahara.png}{
 ガイドブックサポーターのGheliaにて人工知能をもっと身近にするべく
@@ -38,7 +35,7 @@
 }
 
 \contributor{もっと}{@mottox2}{images/contributors/mottox2.png}{
-普段はフリーランスでウェブサービスを開発したりスマホアプリを書いたりしています。今回はサークル主をお休みしてウェブサイトを作っています。だんだん新刊を書きたくなってきました。
+UIデザイナーとプログラマーを反復横とびしています。デザインエンジニアを目指して頑張っています。
 }
 
 \contributor{Alice\_You}{@Alice\_You}{images/contributors/alice_you.png}{
@@ -46,15 +43,8 @@
 }
 
 \contributor{なのなの}{@nano2\_aloerina}{images/contributors/nano2_aloerina.png}{
-本業Androidアプリエンジニア、その本質は気まぐれ系全方位自由人。有明（＋青海）のアレ関連で忙しさ3割増しな日々の合間を縫って、今回も入場や会場外関連のあれこれを計画しています。会場変わってご迷惑をおかけします。
+Webフロント中心のソフトウェアエンジニア、その本質は気まぐれ系全方位自由人。有明の大祭が無くてもスタッフワークはある！とばかりに（他の同人誌即売会と掛け持ちしつつ）技書博5は入場周りに加えてイベント開催制限の分析等を担当。2021年に入ってVRChatはじめました。
 }
-
-\contributor{ざき}{@zucky\_zakizaki}{images/contributors/zucky_zakizaki.png}{
-最近Web（Ruby）えんじにゃーになりました。飲むのが好きで、エンジニア仲間とせんべろ会やってます。ゆるゆる週一ブログ書いてます。あと、アイコンはザクⅠです。そろそろザクⅡに変えたい。
-}
-
-\clearpage
-
 
 \contributor{こまっち}{@komachan\_333}{images/contributors/komacchi_u.png}{
 約2年前まで、SIer企業、アウトソーシング企業にて主にインフラエンジニアとしてエンジニア派遣で
@@ -87,12 +77,68 @@ KANE(カネ)です。情報発信をベースに間接的にエンジニアを�
 転職先ゆる募。似非ネットワーク園児にゃー。知人友人少なめ。仲良くしてやって。
 }
 
-\contributor{木檜(こぐれ)和明}{@kogurek1}{images/contributors/kogure.png}{
+\contributor{木檜(こぐれ)和明}{@kogurek1}{images/contributors/kogure.jpg}{
 ITエンジニアです。商業誌を出版することになり、執筆仲間が欲しいと思って「商業誌執筆者の会」を始めました。技書博のみなさんとも仲良くなりたいです！
 }
 
-\contributor{ふーれむ}{@ditflame}{images/contributors/flame.png}{
+\contributor{ふーれむ}{@ditflame}{images/contributors/flame.jpg}{
 もともと参加は諦め気味だったのですが今回ついうっかり出張が重なってしまい、スタッフ参加する事になりました。(第二回ではパンフ寄稿のみ。)
 ついにここまで来てしまったか…感があります(笑)
+}
+
+\contributor{ごまなつ}{@akrolayer}{images/contributors/akrolayer.jpg}{
+プログラム書いてたらライン工になって、転職してプログラマに戻った人。出展も良いけど、スタッフ参加も良いよね。
+}
+
+\contributor{さんじょう}{@so0552px}{images/contributors/so0552px.jpg}{
+駆け出しのITエンジニアです。EmacsやらPythonやらに関心があるものの掘り下げられてないのが現状(汗)どうぞお手柔らかにお願いしますm(＿ ＿)m
+}
+
+\contributor{えがら}{@egara}{images/contributors/egara.jpg}{
+サークル：えがら家 をやってます。サークル参加は間に合わなかったのでスタッフとして参加させていただきます。年寄りなんでお手柔らかに。
+}
+
+\contributor{けるびん}{@kelvin27315}{images/contributors/kelvin.png}{
+興味を持ったら割となんでも手を出しがち．最近は自室にPoEスイッチが生えた．技書博を知って興味を持っていたら何故かスタッフ参加からすることに．
+}
+
+\contributor{いまい}{　}{images/contributors/gishohaku.png}{
+スタッフ初参加。学生の頃までは情報工学専攻で、雑誌への執筆経験もあるも、現在は企画と進行管理中心の非エンジニア。日々、表現の重要さを実感。１冊の技術書との出会いが、その後の人生に大きな影響を与えることもあります。そのきっかけ作りに、少しでもお役に立てればと思っています
+}
+
+\contributor{ほげさん}{　}{images/contributors/hogesan.jpg}{
+面白い本と縁があるかと思って申し込みました。スタッフ頑張ります。
+}
+
+\contributor{くろす}{@kurosu93}{images/contributors/kurosu.jpg}{
+受託開発のPMやってる人。即売会スタッフ初めてですががんばります。よろしくお願いします！
+}
+
+\contributor{にしこさん}{　}{images/contributors/nishiko.jpg}{
+　　
+}
+
+\contributor{なべくら}{@nabekurage}{images/contributors/nabekura.jpg}{
+　　
+}
+
+\contributor{梅林良太}{　}{images/contributors/umebayashi.jpg}{
+　　
+}
+
+\contributor{もつ}{　}{images/contributors/motsu.jpg}{
+　　
+}
+
+\contributor{室谷　優}{　}{images/contributors/gishohaku.jpg}{
+　　
+}
+
+\contributor{alwehf}{　}{images/contributors/gishohaku.jpg}{
+　　
+}
+
+\contributor{けい酸ネコ}{　}{images/contributors/gishohaku.jpg}{
+　　
 }
 //}
