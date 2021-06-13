@@ -17,6 +17,7 @@ CHAPS:
     - chap-sponsor-apc.re
 
   - chap-title-staff.re:
+    - chap-staff-event.re
     - chap-staff-printflyer.re
 
 POSTDEF:

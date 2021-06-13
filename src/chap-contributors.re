@@ -85,11 +85,11 @@ KANE(カネ)です。情報発信をベースに間接的にエンジニアを�
 転職先ゆる募。似非ネットワーク園児にゃー。知人友人少なめ。仲良くしてやって。
 }
 
-\contributor{木檜(こぐれ)和明}{@kogurek1}{images/contributors/kogure.png}{
+\contributor{木檜(こぐれ)和明}{@kogurek1}{images/contributors/kogure.jpg}{
 ITエンジニアです。商業誌を出版することになり、執筆仲間が欲しいと思って「商業誌執筆者の会」を始めました。技書博のみなさんとも仲良くなりたいです！
 }
 
-\contributor{ふーれむ}{@ditflame}{images/contributors/flame.png}{
+\contributor{ふーれむ}{@ditflame}{images/contributors/flame.jpg}{
 もともと参加は諦め気味だったのですが今回ついうっかり出張が重なってしまい、スタッフ参加する事になりました。(第二回ではパンフ寄稿のみ。)
 ついにここまで来てしまったか…感があります(笑)
 }
@@ -99,24 +99,54 @@ ITエンジニアです。商業誌を出版することになり、執筆仲間
 }
 
 \contributor{さんじょう}{@so0552px}{images/contributors/so0552px.jpg}{
-駆け出しのITエンジニアです。
-EmacsやらPythonやらに関心があるものの掘り下げられてないのが現状(汗)
-どうぞお手柔らかにお願いしますm(_ _)m
+駆け出しのITエンジニアです。EmacsやらPythonやらに関心があるものの掘り下げられてないのが現状(汗)どうぞお手柔らかにお願いしますm(＿ ＿)m
 }
 
 \contributor{えがら}{@egara}{images/contributors/egara.jpg}{
-サークル：えがら家 をやってます。
-サークル参加は間に合わなかったのでスタッフとして参加させていただきます。
-年寄りなんでお手柔らかに。
+サークル：えがら家 をやってます。サークル参加は間に合わなかったのでスタッフとして参加させていただきます。年寄りなんでお手柔らかに。
 }
 
 \contributor{けるびん}{@kelvin27315}{images/contributors/kelvin.png}{
 興味を持ったら割となんでも手を出しがち．最近は自室にPoEスイッチが生えた．技書博を知って興味を持っていたら何故かスタッフ参加からすることに．
 }
 
-\contributor{いまい}{}{}{
+\contributor{いまい}{　}{images/contributors/gishohaku.png}{
 スタッフ初参加。学生の頃までは情報工学専攻で、雑誌への執筆経験もあるも、現在は企画と進行管理中心の非エンジニア。日々、表現の重要さを実感。１冊の技術書との出会いが、その後の人生に大きな影響を与えることもあります。そのきっかけ作りに、少しでもお役に立てればと思っています
 }
 
+\contributor{ほげさん}{　}{images/contributors/hogesan.jpg}{
+面白い本と縁があるかと思って申し込みました。スタッフ頑張ります。
+}
 
+\contributor{くろす}{@kurosu93}{images/contributors/kurosu.jpg}{
+受託開発のPMやってる人。即売会スタッフ初めてですががんばります。よろしくお願いします！
+}
+
+\contributor{にしこさん}{　}{images/contributors/nishiko.jpg}{
+　　
+}
+
+\contributor{なべくら}{@nabekurage}{images/contributors/nabekura.jpg}{
+　　
+}
+
+\contributor{梅林良太}{　}{images/contributors/umebayashi.jpg}{
+　　
+}
+
+\contributor{もつ}{　}{images/contributors/motsu.jpg}{
+　　
+}
+
+\contributor{室谷　優}{　}{images/contributors/gishohaku.jpg}{
+　　
+}
+
+\contributor{alwehf}{　}{images/contributors/gishohaku.jpg}{
+　　
+}
+
+\contributor{けい酸ネコ}{　}{images/contributors/gishohaku.jpg}{
+　　
+}
 //}
