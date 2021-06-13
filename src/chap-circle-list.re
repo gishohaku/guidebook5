@@ -70,18 +70,18 @@
 
 //embed{
     \begin{center}
-        \includegraphics[width=1.0\linewidth]{images/chap-circle-list/circles-0.png}
+        \includegraphics[width=0.85\linewidth]{images/chap-circle-list/circles-0.png}
     \end{center}
 //}
 
 //embed{
     \begin{center}
-        \includegraphics[width=1.0\linewidth]{images/chap-circle-list/circles-1.png}
+        \includegraphics[width=0.85\linewidth]{images/chap-circle-list/circles-1.png}
     \end{center}
 //}
 
 //embed{
     \begin{center}
-        \includegraphics[width=1.0\linewidth]{images/chap-circle-list/circles-2.png}
+        \includegraphics[width=0.85\linewidth]{images/chap-circle-list/circles-2.png}
     \end{center}
 //}
