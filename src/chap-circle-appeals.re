@@ -57,10 +57,10 @@
         \includegraphics[width=0.69\paperwidth,keepaspectratio]{images/chap-circle-appeals/55.pdf}\vspace{10pt}
         \includegraphics[width=0.69\paperwidth,keepaspectratio]{images/chap-circle-appeals/56.pdf}\vspace{10pt}
         \includegraphics[width=0.69\paperwidth,keepaspectratio]{images/chap-circle-appeals/59.pdf}\vspace{10pt}
+        \includegraphics[width=0.69\paperwidth,keepaspectratio]{images/chap-circle-appeals/65.pdf}\vspace{10pt}
         \includegraphics[width=0.69\paperwidth,keepaspectratio]{images/chap-circle-appeals/62.pdf}\vspace{10pt}
         \includegraphics[width=0.69\paperwidth,keepaspectratio]{images/chap-circle-appeals/63.pdf}\vspace{10pt}
         \includegraphics[width=0.69\paperwidth,keepaspectratio]{images/chap-circle-appeals/64.pdf}\vspace{10pt}
-        \includegraphics[width=0.69\paperwidth,keepaspectratio]{images/chap-circle-appeals/65.pdf}\vspace{10pt}
         \includegraphics[width=0.69\paperwidth,keepaspectratio]{images/chap-circle-appeals/66.pdf}\vspace{10pt}
         \includegraphics[width=0.69\paperwidth,keepaspectratio]{images/chap-circle-appeals/67.pdf}
     \end{center}
