@@ -1,5 +1,5 @@
 //embed{
     \begin{center}
-        \includegraphics[width=0.95\linewidth]{images/chap-circle-layout/2f.png}
+        \includegraphics[width=0.7\linewidth]{images/chap-circle-layout/Pio.png}
     \end{center}
 //}
