@@ -67,3 +67,21 @@
 66	湊川あいの、わかば家。	IT-開発-Web
 67	チームになったササキ	IT-インフラ-サーバ・ネットワーク機器
 //}
+
+//embed{
+    \begin{center}
+        \includegraphics[width=1.0\linewidth]{images/chap-circle-list/circles-0.png}
+    \end{center}
+//}
+
+//embed{
+    \begin{center}
+        \includegraphics[width=1.0\linewidth]{images/chap-circle-list/circles-1.png}
+    \end{center}
+//}
+
+//embed{
+    \begin{center}
+        \includegraphics[width=1.0\linewidth]{images/chap-circle-list/circles-2.png}
+    \end{center}
+//}
