@@ -27,9 +27,6 @@
 
 \clearpage
 
-\contributor{kazto}{@bainarian}{images/contributors/bainarian.png}{
-7月から自社サービスのエンジニアになりました。Teratailで細々と回答したりしています。本を書く側になりたいです。
-}
 
 \contributor{なつお}{@KazuyaNakahara}{images/contributors/kazuyanakahara.png}{
 ガイドブックサポーターのGheliaにて人工知能をもっと身近にするべく
@@ -48,13 +45,6 @@ UIデザイナーとプログラマーを反復横とびしています。デザ
 \contributor{なのなの}{@nano2\_aloerina}{images/contributors/nano2_aloerina.png}{
 Webフロント中心のソフトウェアエンジニア、その本質は気まぐれ系全方位自由人。有明の大祭が無くてもスタッフワークはある！とばかりに（他の同人誌即売会と掛け持ちしつつ）技書博5は入場周りに加えてイベント開催制限の分析等を担当。2021年に入ってVRChatはじめました。
 }
-
-\contributor{ざき}{@zucky\_zakizaki}{images/contributors/zucky_zakizaki.png}{
-最近Web（Ruby）えんじにゃーになりました。飲むのが好きで、エンジニア仲間とせんべろ会やってます。ゆるゆる週一ブログ書いてます。あと、アイコンはザクⅠです。そろそろザクⅡに変えたい。
-}
-
-\clearpage
-
 
 \contributor{こまっち}{@komacchi\_u}{images/contributors/komacchi_u.png}{
 最近、SREとしてベンチャー企業で働き始めました。
