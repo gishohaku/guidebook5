@@ -141,8 +141,8 @@ ITエンジニアです。商業誌を出版することになり、執筆仲間
 即売会スタッフ初めてです、頑張ります
 }
 
-\contributor{もつ}{　}{images/contributors/motsu.jpg}{
-　　
+\contributor{もつ}{@ad\_motsu}{images/contributors/motsu.jpg}{
+仕事では全く触ってないけどAWSが好きなインフラエンジニア。初めてのスタッフ参加ですがよろしくお願いします。
 }
 
 \contributor{室谷　優}{　}{images/contributors/gishohaku.png}{
