@@ -123,11 +123,7 @@ ITエンジニアです。商業誌を出版することになり、執筆仲間
 面白い本と縁があるかと思って申し込みました。スタッフ頑張ります。
 }
 
-<<<<<<< HEAD
-\clearpage
-=======
 //pagebreak
->>>>>>> 8efc3d4a099b1f5e19e1d485a2b6a6792c658fe8
 
 \contributor{くろす}{@kurosu93}{images/contributors/kurosu.jpg}{
 受託開発のPMやってる人。即売会スタッフ初めてですががんばります。よろしくお願いします！
