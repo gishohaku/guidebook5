@@ -149,6 +149,8 @@ ITエンジニアです。商業誌を出版することになり、執筆仲間
 　　
 }
 
+\clearpage
+
 \contributor{alwehf}{　}{images/contributors/gishohaku.png}{
 　　
 }
