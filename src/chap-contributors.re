@@ -5,7 +5,8 @@
 //embed{
 
 \contributor{ariaki}{@ariaki4dev}{images/contributors/ariaki4dev.png}{
-普段はエンジニア向け勉強会でピザ発注担当をしています。年末に向けて全員多忙のなか、なんとか無事開催することができました。今回は昼食や読書室などたくさん新企画がありますので、ぜひ感想をお聞かせください。技書博やっていき！
+スタートアップの開発責任者を拝命し、刺激的な仕事で毎日楽しく駆けずり回っています。
+技書博開催直前にPS5が当選したけど泣く泣くゲーム機を封印して準備を進めているので、技書博おわったら絶対遊び倒す！
 }
 
 \contributor{水殿}{@midono\_ap1}{images/contributors/midono_ap1.png}{
@@ -61,7 +62,19 @@ SIerでは、AWS、Azureを中心としてクラウドや、セキュリティ�
 野球が大好きです。
 }
 
-\clearpage
+//}
+
+== デザイン
+
+//embed{
+
+\contributor{こばやし＼(FAQ )／}{@tapenadepaste}{images/contributors/FAQ.png}{
+普段は、エンジニアの助けになれるような仕事を！ってことでエンジニアのいる会社の広報をやってます。ガイドブックの表紙やポスター等のイラスト作らせてもらいました。
+}
+
+\contributor{よそいち}{@VArghhhhhhhhhhh}{images/contributors/yosoichi.jpg}{
+大学卒業後、求人広告→ビジネスフォームの制作を経て現在は書籍、雑誌のDTPをしています。2020年より1級プリプレス技能士。イラストをもう一本の仕事の柱にするべく活動中です。
+}
 
 //}
 
@@ -118,8 +131,8 @@ ITエンジニアです。商業誌を出版することになり、執筆仲間
 　　
 }
 
-\contributor{なべくら}{@nabekurage}{images/contributors/nabekura.jpg}{
-　　
+\contributor{なべくら}{@nabe\_\_kurage}{images/contributors/nabekura.jpg}{
+絵を書いたり何か作ったりが好きなフロントエンドエンジニアです。スタッフ参加はじめてなので頑張ります！
 }
 
 \contributor{うめりん}{@lesgrandsballet}{images/contributors/umebayashi.jpg}{
